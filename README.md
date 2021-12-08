@@ -3,7 +3,7 @@
 # Functionality
 This project have multiple endpoints.<br/>
 
-### **You can see them here or use /swagger-ui/index.html to more desription**
+### **You can see them here or use /swagger-ui/index.html to more desription and testing**
 
 GET:
 - /users - get all users from db
